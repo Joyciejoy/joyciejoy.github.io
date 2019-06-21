@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Action Diary]]></title><description><![CDATA[Dear Action Diary...]]></description><link>https://joyciejoy.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 18:57:00 GMT</lastBuildDate><item><title><![CDATA[Joyce]]></title><description><![CDATA[HELLOOO]]></description><link>https://joyciejoy.github.io//joyce/</link><guid isPermaLink="false">https://joyciejoy.github.io//joyce/</guid><pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Action Diary]]></title><description><![CDATA[Dear Action Diary...]]></description><link>https://joyciejoy.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 19:53:31 GMT</lastBuildDate><item><title><![CDATA[Joyce]]></title><description><![CDATA[HELLOOO
+test
+testbreak fast]]></description><link>https://joyciejoy.github.io//joyce/</link><guid isPermaLink="false">https://joyciejoy.github.io//joyce/</guid><pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
@@ -94,7 +96,11 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;HELLOOO&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc DenisI used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://joyciejoy.github.io//darkness/</link><guid isPermaLink="false">https://joyciejoy.github.io//darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;HELLOOO
+test
+&lt;em&gt;test&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;break &lt;strong&gt;fast&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sample]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc DenisI used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://joyciejoy.github.io//darkness/</link><guid isPermaLink="false">https://joyciejoy.github.io//darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
 &lt;p&gt;This is the final render.&lt;/p&gt;
 &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
@@ -1402,15 +1408,6 @@ egg yolk will be less rich.”?
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1460,4 +1457,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>
